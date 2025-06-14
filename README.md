@@ -75,7 +75,7 @@ Try it yourself at the bottom of the notebook!
 
 
 **Input**: "خدمه تعبانه تعب الموت ومافي فايده"  
-**Prediction**: `Positive `
+**Prediction**: `Negative `
 
 **Input**: "The app is too slow and crashes a lot"  
 **Prediction**: `Negative `
