@@ -35,6 +35,12 @@ We trained and compared three ML models:
 
 ---
 
+##  Example Output
+
+<img src="images/Sentiment Distribution.png" width="400"/>
+<img src="images/Confusion Matrix Comparison for Models.png" width="400"/>
+
+---
 ##  Workflow Summary
 
 1. **Data Loading & Exploration**
@@ -75,7 +81,7 @@ Try it yourself at the bottom of the notebook!
 
 
 **Input**: "خدمه تعبانه تعب الموت ومافي فايده"  
-**Prediction**: `Negative `
+**Prediction**: `Positive `
 
 **Input**: "The app is too slow and crashes a lot"  
 **Prediction**: `Negative `
